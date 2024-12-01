@@ -1,4 +1,4 @@
-![tree_visualization](https://github.com/user-attachments/assets/0597faf2-88e0-4170-9440-d05478fdf0fa)# Random_forest_meantemp
+# Random_forest_meantemp
 A random forest model based on climate temperature prediction. The dataset comes from "https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data". This model performs well on the validation set. However, in longer time series (test set), the performance of the prediction decreased significantly.
 
 Plot example
